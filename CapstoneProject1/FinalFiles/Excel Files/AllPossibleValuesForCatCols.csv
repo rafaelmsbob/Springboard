@@ -1,0 +1,26 @@
+﻿MSSubClass,MSZoning,Street,Alley,LotShape,LandContour,Utilities,LotConfig,LandSlope,Neighborhood,Condition1,Condition2,BldgType,HouseStyle,OverallQual,OverallCond,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,ExterQual,ExterCond,Foundation,BsmtQual,BsmtCond,BsmtExposure,BsmtFinType1,BsmtFinType2,Heating,HeatingQC,CentralAir,Electrical,KitchenQual,Functional,FireplaceQu,GarageType,GarageFinish,GarageQual,GarageCond,PavedDrive,PoolQC,Fence,MiscFeature,SaleType,SaleCondition
+20,       A,       Grvl,       Grvl,       Reg,       Lvl,       AllPub,       Inside,       Gtl,       Blmngtn,       Artery,       Artery,       1Fam,       1Story,10,10,       Flat,       ClyTile,       AsbShng,       AsbShng,       BrkCmn,       Ex,       Ex,       BrkTil,       Ex,       Ex,       Gd,       GLQ,       GLQ,       Floor,       Ex,       N,       SBrkr,       Ex,       Typ,       Ex,       2Types,       Fin,       Ex,       Ex,       Y,       Ex,       GdPrv,       Elev,       WD ,       Normal
+30,       C,       Pave,       Pave,       IR1,       Bnk,       NoSewr,       Corner,       Mod,       Blueste,       Feedr,       Feedr,       2FmCon,       1.5Fin,9,9,       Gable,       CompShg,       AsphShn,       AsphShn,       BrkFace,       Gd,       Gd,       CBlock,       Gd,       Gd,       Av,       ALQ,       ALQ,       GasA,       Gd,       Y,       FuseA,       Gd,       Min1,       Gd,       Attchd,       RFn,       Gd,       Gd,       P,       Gd,       MnPrv,       Gar2,       CWD,       Abnorml
+40,       FV,,       NA,       IR2,       HLS,       NoSeWa,       CulDSac,       Sev,       BrDale,       Norm,       Norm,       Duplx,       1.5Unf,8,8,       Gambrel,       Membran,       BrkComm,       BrkComm,       CBlock,       TA,       TA,       PConc,       TA,       TA,       Mn,       BLQ,       BLQ,       GasW,       TA,,       FuseF,       TA,       Min2,       TA,       Basment,       Unf,       TA,       TA,       N,       TA,       GdWo,       Othr,       VWD,       AdjLand
+45,       I,,,       IR3,       Low,       ELO,       FR2,,       BrkSide,       RRNn,       RRNn,       TwnhsE,       2Story,7,7,       Hip,       Metal,       BrkFace,       BrkFace,       None,       Fa,       Fa,       Slab,       Fa,       Fa,       No,       Rec,       Rec,       Grav,       Fa,,       FuseP,       Fa,       Mod,       Fa,       BuiltIn,       NA,       Fa,       Fa,,       Fa,       MnWw,       Shed,       New,       Alloca
+50,       RH,,,,,,       FR3,,       ClearCr,       RRAn,       RRAn,       TwnhsI,       2.5Fin,6,6,       Mansard,       Roll,       CBlock,       CBlock,       Stone,       Po,       Po,       Stone,       Po,       Po,       NA,       LwQ,       LwQ,       OthW,       Po,,       Mix,       Po,       Maj1,       Po,       CarPort,,       Po,       Po,,       NA,       NA,       TenC,       COD,       Family
+60,       RL,,,,,,,,       CollgCr,       PosN,       PosN,,       2.5Unf,5,5,       Shed,       Tar&Grv,       CemntBd,       CemntBd,,,,       Wood,       NA,       NA,,       Unf,       Unf,       Wall,,,,,       Maj2,       NA,       Detchd,,       NA,       NA,,,,       NA,       Con,       Partial
+70,       RP,,,,,,,,       Crawfor,       PosA,       PosA,,       SFoyer,4,4,,       WdShake,       HdBoard,       HdBoard,,,,,,,,       NA,       NA,,,,,,       Sev,,       NA,,,,,,,,       ConLw,
+75,       RM,,,,,,,,       Edwards,       RRNe,       RRNe,,       SLvl,3,3,,       WdShngl,       ImStucc,       ImStucc,,,,,,,,,,,,,,,       Sal,,,,,,,,,,       ConLI,
+80,,,,,,,,,       Gilbert,       RRAe,       RRAe,,,2,2,,,       MetalSd,       MetalSd,,,,,,,,,,,,,,,,,,,,,,,,,       ConLD,
+85,,,,,,,,,       IDOTRR,,,,,1,1,,,       Other,       Other,,,,,,,,,,,,,,,,,,,,,,,,,       Oth,
+90,,,,,,,,,       MeadowV,,,,,,,,,       Plywood,       Plywood,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,,,,,,,,,       Mitchel,,,,,,,,,       PreCast,       PreCast,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,,,       Names,,,,,,,,,       Stone,       Stone,,,,,,,,,,,,,,,,,,,,,,,,,,
+160,,,,,,,,,       NoRidge,,,,,,,,,       Stucco,       Stucco,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,,,,,,,,,       NPkVill,,,,,,,,,       VinylSd,       VinylSd,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,,,,,,,,,       NridgHt,,,,,,,,,       Wd Sdng,       Wd Sdng,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       NWAmes,,,,,,,,,       WdShing,       WdShing,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       OldTown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       SWISU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       Sawyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       SawyerW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       Somerst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       StoneBr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       Timber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,       Veenker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
