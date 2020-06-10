@@ -1,14 +1,14 @@
-## Overview
-# Project Name: 
+# Overview
+## Project Name: 
 Vehicle Loan Default Prediction
 
-# Summary: 
+## Summary: 
 Exploratory Data Analysis and Machine Learning Classification Algorithms on a Vehicle Loan Dataset to try to increase loan default prediction accuracy.
 
-# Proposal: 
+## Proposal: 
 Increase the predictability of a vehicle loan default, based on borrower data, loan data and Bureau data.
 
-# Final deliverable of this project: 
+## Final deliverable of this project: 
 A Machine Learning model capable of providing good loan default predictions.
 
 
