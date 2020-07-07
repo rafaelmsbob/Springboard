@@ -11,11 +11,14 @@ the next part of the project: Machine Learning Classification models exploration
 Dataset from previous Notebook is loaded and several Machine Learning Classification models are tested. You will also find how I am defining both the accuracy and the benchmark.
 <b>Plot twist</b>: Sklearn's Dummy Model wasn't challenging enough for me, so I defined a benchmark of my own.
 
-## Final Presentation.ipynb
+## Final Presentation.pptx
 Powerpoint slides with the highlights of the project.
 
 ## fromRawToPrediction.py
-Python file that goes all the way from loading the raw dataset to the application of the best model.
+Python file that goes all the way from loading the raw dataset to the application of the best model. Needs the file below to run.
+
+## FRTPfunctions.py
+Python module from where all the functions used on the previous file are imported.
 
 # OVERVIEW OF THE PROJECT
 ## Project Name: 
