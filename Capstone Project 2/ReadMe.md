@@ -1,6 +1,6 @@
 # FILES DESCRIPTION
 ## FinalReport.pdf
-<b>Most important file!</b>. Contains detailed explanation of all the steps taken thoughout the project: Data Preparation, Data Analysis and Machine Learning Models application.
+<b>Most important file!</b> Contains detailed explanation of all the steps taken thoughout the project: Data Preparation, Data Analysis and Machine Learning Models application.
 It contains screenshots from the two notebook files ("Data Preparation" and "ML Algorithms"), making the explanations easy to follow.
 
 ## Data Preparation.ipynb
