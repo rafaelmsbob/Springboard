@@ -1,3 +1,16 @@
+# Files description
+<b>Challenge files:</b>
+- <b>Logins.json</b> - Used in part 1. JSON file with simulated timestamps of user logins
+- <b>ultimate_data_challenge.json</b> - Used in part 3. JSON file with sample dataset of a cohort of users who signed up for Ultimate account in Jan 2014.
+- <b>ultimate_data_science_challenge.pdf</b> - PDF file with the challenge instructions. This files is transcribed below.
+
+<b>My solution files:</b>
+- <b>Ultimate Challenge - Part1.ipynb</b>
+- <b>Part 2.docx</b>
+- <b>Ultimate Challenge - Part3.ipynb</b>
+
+
+
 # Data Analysis Interview Challenge
 This is your chance to wow us with creative and rigorous solutions! Please include your code at the end of your submission, or in a separate file. 
 We also accept incomplete solutions.
