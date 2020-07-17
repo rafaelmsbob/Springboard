@@ -27,6 +27,9 @@ Vehicle Loan Default Prediction
 ## Summary: 
 Exploratory Data Analysis and Machine Learning Classification Algorithms on a Vehicle Loan Dataset to try to increase loan default prediction accuracy.
 
+## Dataset:
+From kaggle: https://www.kaggle.com/avikpaul4u/vehicle-loan-default-prediction
+
 ## Proposal: 
 Increase the predictability of a vehicle loan default, based on borrower data, loan data and Bureau data. The goal is to define a predicting model better than what is
 currently in place.
