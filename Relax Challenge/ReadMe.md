@@ -1,6 +1,7 @@
 # Files Description
 - takehome_users_engagement.csv --> users logins
-- takehome_users --> users details database
+- takehome_users.csv --> users details database provided in the challenge
+- takehome_users2.csv --> same data, but manipulated, so pd.read_csv could work (details in the solution file)
 - Relax_Challenge.ipynb --> my solution
 
 # The Challenge
